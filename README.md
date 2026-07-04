@@ -169,6 +169,8 @@ We would like to express our sincere gratitude to Prof. Zeynep Kacar, instructor
 
 We also thank the Centers for Disease Control and Prevention (CDC) for making the NHANES 2017–2020 dataset publicly available, enabling this research and analysis.
 
+---
+
 📄 License
 
 This repository is intended for educational and academic purposes.
